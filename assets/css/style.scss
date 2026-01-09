@@ -6,13 +6,15 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    background-color: rgb(31, 149, 31);
+    color: white;
 }
 .page-header {
-    color: #000000;
-    background-color: #ffffff;
+    color: white;
+    background-color: rgb(31, 149, 31);;
     text-align: start;
-    border-bottom: #000 solid 1px;
+    border-bottom: white solid 1px;
     background-image: none;
     max-width: 64rem;
     margin: 0 auto;
@@ -27,12 +29,12 @@ body {
     margin: auto 0;
 }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: rgb(31, 149, 31);
+    color: white;
     font-family: Helvetica, Arial, sans-serif;
 }
 
 .project-name {
-    color: rgb(31, 149, 31);
+    color: white;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -47,4 +49,8 @@ body {
 .page-header h2 {
     font-size: 1.15rem;
     margin-bottom: 1rem;
+}
+
+a {
+    color: white; 
 }
