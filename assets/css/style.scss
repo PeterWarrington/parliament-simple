@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+.page-header {
+    color: #000000;
+    background-color: #ffffff;
+    text-align: start;
+    border-bottom: #000 solid 1px;
+    background-image: none;
+    max-width: 64rem;
+    margin: 0 auto;
+    height: fit-content;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#logo {
+    border-radius: 100%;
+    display: block;
+    width: 150px;
+    margin: auto 0;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: rgb(31, 149, 31);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.project-name {
+    color: rgb(31, 149, 31);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.page-header h1, .page-header h2 {
+    font-weight: normal;
+}
+
+.page-header h1 {
+    font-size: 2.25rem;
+}
+
+.page-header h2 {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+}
