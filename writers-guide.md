@@ -9,7 +9,7 @@
 ## Write
 
 1. Go to <https://github.dev/PeterWarrington/parliament>. Bookmark this!
-2. Create a file in the _posts folder with the filename "YYYY-MM-DD-SHORT_TITLE.md" replacing accordingly.
+2. Create a file in the _posts folder with the filename "YYYY-MM-DD-SHORT_TITLE.md" replacing accordingly. (Right click on the _posts folder, new file)
 3. Copy and paste the following, replacing the values:
 ```
 ---
@@ -18,7 +18,6 @@ title:  "Trump and Venezuela"
 description: "Speeches following US military intervention in Venezuela and the capture of its President Nicolás Maduro."
 author: Peter Warrington
 ---
-
 ```
 4. Write! Use `>` for block quotes for all speeches and quotes. Remember to give sources. Use <https://hansard.parliament.uk> as main source.
 5. Preview with the preview button on the left hand side:
