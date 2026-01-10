@@ -225,3 +225,54 @@ Veteran, Former Minister of State for Security, and previous Conservative party 
 **Josh Babarinde (Liberal Democrat):**
 
 > Throughout this statement the Foreign Secretary appears to have taken comfort from the UK not having been involved in the US’s illegal attack in Venezuela, but she cannot escape the reality that for as long as this Government fail to call out Trump for his actions, they are complicit in his demolition of the international rules-based order. ...
+
+---
+
+## Prime Minister's Questions - January 7th
+
+<https://hansard.parliament.uk/commons/2026-01-07/debates/F2012EE8-5532-426B-8797-FA85B1832591/Engagements>
+
+**Ed Davey (Liberal Democrat)**, Party leader:
+
+> Geoffrey Robertson KC is a respected authority on international law. He is also the head of the Prime Minister’s barrister chambers and he could not be clearer: President Trump’s actions in Venezuela are illegal. He says the United States:
+>
+>“is in breach of the United Nations charter”
+>
+>and
+>
+>“has committed the crime of aggression, which the court at Nuremberg described as the supreme crime”.
+>
+> Does the Prime Minister agree with his old mentor, or has he got it wrong?
+
+**Sir Keir Starmer (Labour)**, Prime Minister:
+
+> There are plenty of things that Geoffrey and I have agreed on and disagreed on over the years, but let me set out our position. It is our long-standing position that Maduro was not a legitimate president in Venezuela, so nobody, I think, sheds any tears at his removal. What we were saying before the weekend, and we say again, is that there needs to be a peaceful transition to democracy in Venezuela. The benchmark of all actions of all countries is, of course, international law, and it is for the US to justify its actions accordingly. My focus is on the defence and security of the United Kingdom. ...
+
+**Ed Davey (Liberal Democrat)**:
+
+> The Prime Minister just looks ridiculous when he will not tell the truth: that Trump has broken international law.  ...
+
+---
+
+## Venezuela, House of Lords, January 7th
+
+<https://hansard.parliament.uk/Lords/2026-01-07/debates/5DED9312-83EC-4206-9B0C-D066F95D2D27/Venezuela>
+
+**Lord Singh (Crossbench independent):**
+
+> My Lords, does the Minister agree that the American action against Venezuela is reminiscent of the school playground, where the leader of our gang, to whom we have pledged loyalty, begins to act like the school bully?
+
+**Baroness Chapman (Labour)** Minister of State in the Foreign Office:
+
+> **No.** In all of this, I think the thing that matters most and that is often lost in these exchanges is that the people of Venezuela have been badly served and abused for many years. They deserve a Government who put them first, and they have not had that. We have not had a legitimate Government in Venezuela for some time; there is the prospect of that happening. I think it is a good thing that Nicolás Maduro is no longer responsible for running Venezuela.
+
+---
+
+**Baroness Bennet (Green):**
+
+> My Lords, President Trump is displaying total disrespect for international law in his actions in Venezuela, and threatening the right of self-determination for the people of Greenland and the sovereignty of Denmark. Is the idea of the West as a geopolitical unit linking the US, Europe and other nations in a set of shared values and principles, now dead?
+
+**Baroness Chapman (Labour):**
+
+> No, clearly not. ...
+
