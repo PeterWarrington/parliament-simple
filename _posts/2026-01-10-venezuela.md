@@ -2,6 +2,7 @@
 layout: post
 title:  "Trump and Venezuela"
 description: "Speeches following US military intervention in Venezuela and the capture of its President Nicolás Maduro."
+author: Peter Warrington
 ---
 
 > The US has attacked Venezuela and captured its President Nicolás Maduro, with Donald Trump vowing to "run the country" until there is a "proper" transition of power.
