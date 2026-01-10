@@ -17,3 +17,7 @@
 
 <hr/>
 {% endfor %}
+
+<small>
+📡 <a href="/feed.xml">RSS Feed</a>
+</small>
