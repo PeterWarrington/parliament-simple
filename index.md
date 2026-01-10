@@ -1,3 +1,6 @@
+> Presenting the most notable speeches of the House of Commons and the House of Lords every week, without spin.
+> **Know the debates of our time.**
+
 {% for post in site.posts %}
 <div class="post">
 <h3 style="margin-bottom: 0;"><a href="{{ post.url }}" style="color: inherit;">{{ post.title }}</a></h3>
