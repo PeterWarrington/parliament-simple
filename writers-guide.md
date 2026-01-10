@@ -20,7 +20,7 @@ author: Peter Warrington
 ---
 ```
 4. Write! Use `>` for block quotes for all speeches and quotes. Remember to give sources. Use <https://hansard.parliament.uk> as main source.
-5. Preview with the preview button on the left hand side:
+5. Preview with the preview button on the right hand side:
 
 ![](image.png)
 
