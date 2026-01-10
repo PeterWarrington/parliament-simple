@@ -43,28 +43,44 @@ The House of Commons met on Monday 5th January 2026 to hear a statement from the
 >I discussed with Secretary Rubio what should happen next and our continued commitment to a transition to a peaceful and stable democracy. Our collective immediate focus must be on avoiding any deterioration in Venezuela into further instability, criminality, repression or violence. That would be deeply damaging for the people of Venezuela, our own overseas territories, our allies in the US and other regional partners.
 >
 >The UK has long been clear that the leadership of Venezuela must reflect the will of the Venezuelan people, so the international community must come together to help achieve a peaceful transition to a democratic Government who respect the rights and will of their people. That must mean action on the economic crisis, the release of political prisoners, the return of opposition politicians, an end to political repression, respect for human rights, and plans for the holding of free and fair elections. I urge the acting President, Delcy Rodríguez, to take these steps forward, because the people of Venezuela have a right to decide their own future.
+>
 > ...
+>
 
 The **Leader of the Opposition, Kemi Badenoch (Conservative)** was the first to respond to the statement:
 
 > ...
+>
 > Foreign policy should serve our national interest. It should be about keeping Britain safe. We should be clear-eyed. The United States is our closest security partner. We must work with it seriously, not snipe from the sidelines. The Opposition understand why the US has taken this action. As the Foreign Secretary said, UK policy has long been to press for a peaceful transition from authoritarian rule to a democracy. That never happened. Instead, Venezuelans have been living under Maduro’s brutal regime for many years.
 >
+>
 > The US has made it clear that it is acting in its national interest against drug smuggling and other criminal activity, including potential terrorism. We understand that. However, we have concerns about what precedent this sets, especially when there are comments made about the future of Greenland. It is important that the United Kingdom supports its NATO ally Denmark, which has made it categorically clear that Greenland is not for sale, so I welcome the Foreign Secretary’s remarks in that regard.
+>
 > ...
+>
 > I am pleased to hear that the Foreign Secretary has spoken to María Corina Machado, but can she also update the House on whether the Prime Minister has spoken to President Trump? I ask that because the Government talk up their relationship with the US, but we keep finding that we are not in the room when big decisions are made.
+>
 > ...
+>
 > In a world changing as it is, we must be serious and responsible about our security and standing. We know what the strategy of the President of the United States is, because his Government set out their national security strategy last year. The US is acting in its national interests, and we need to do the same. We should be working to protect the rules-based order, and we should be standing up to hostile actors that want to undermine us, but what are our Government doing instead? They are giving away the Chagos islands, and paying £35 billion for the privilege, with no strong legal basis to justify doing so.
+>
 > ...
+>
 > It has never been more important for the UK to have a coherent foreign policy strategy. Right now, Labour does not have one. If it does, we would like the Foreign Secretary to tell us what it is, because I did not hear anything that sounded remotely like one in her statement. Let us be honest: old strategies will not work. We are living in an increasingly dangerous world, and the axis of authoritarian states seeking to undermine us respects just one thing: strength. Britain must be ready and willing to defend our own interests, to protect ourselves from those who would undermine us, to protect the unity of the western alliance, and to support democracy and freedom around the world.
 
 **Yvette Cooper (Labour)** responded back:
 
 > I must just say to the Leader of the Opposition that, while I obviously welcome her support on Switzerland, Greenland and Denmark and so on, it felt like the tone of her response was very poorly judged. It was really all over the place.
+>
 > ...
+>
 > In fact, on the different issues the Leader of the Opposition talked about, she seemed to agree with us. On Venezuela, she said that the Maduro regime has been deeply damaging, corrupt and deeply destructive, and therefore that no one should shed any tears for its going. She also—I think this was implicit when she talked about the rules-based order—recognised the importance of precedents, the importance of international law and the complexity of the world we face. She also said that she thought we should show support for Denmark and Greenland. In fact, I could not see in her response a single detailed thing that she disagreed with, except for the fact that she seemed to want to express opposition for opposition’s sake.
+>
 > Many times in the past we took a cross-party approach, and I would expect the Leader of the Opposition to do the same on what really matters for the future of this country. This Government will continue to stand up for Britain’s interests, our prosperity and our values.
+>
 > ...
+
+---
 
 As is custom in debates on foreign policy, the chair of the Foreign Affairs Select Committee, **Emily Thornberry (Labour)**, was called next to question the Foreign Secretary on their statement:
 
@@ -79,6 +95,7 @@ As is custom in debates on foreign policy, the chair of the Foreign Affairs Sele
 As the 3rd largest party in the House of Commons, the **Leader of the Liberal Democrats, Ed Davey**, was next to question the Foreign Secretary:
 
 > ...
+>
 > When President Reagan invaded Grenada, Margaret Thatcher said that
 >
 >*“we in…the Western democracies…use our force to defend our way of life, we do not use it to walk into other people’s countries... We try to extend our beliefs not by force but by persuasion.”*
@@ -98,9 +115,13 @@ As the 3rd largest party in the House of Commons, the **Leader of the Liberal De
 Next to respond was **Diane Abbot (Labour)**, the longest continuously serving member of the House of Commons, often described as a "veteran left-winger" due to her prominent position in the Socialist Campaign Group caucus and her role in the Shadow Cabinet of Jeremy Corbyn:
 
 > Nobody in this Chamber wants to defend the regime of Maduro, but what some of us want to do is to stand up for the importance of a rules-based international order. I might add that because my parents were born overseas, I take the question of national sovereignty extremely seriously. We cannot have a situation where a country, because it is bigger and stronger, walks into a smaller country, snatches its political leadership—whatever people think of that political leadership—helicopters it out and puts it on a show trial in an outside country. That cannot be something that this Government are prepared to support.
+>
 > ...
+>
 > I know that the Opposition are blithe about what Trump is doing, but let me say this: there will be countries that will look at Trump’s attitude and carelessness towards issues of sovereignty and think, “What happens if we have that threat? Who will be willing to stand up for us? Who will be willing to stand up for our national sovereignty?” As far as I have heard thus far, it will not necessarily be our Ministers.
+>
 > ...
+>
 > My question is: what would the Foreign Secretary say to British voters—ordinary British voters; not left-wing British voters in particular—who do not understand why a British Prime Minister is not willing to stand up for an international rules-based order and is not willing to defend national sovereignty?
 
 **Yvette Cooper (Labour)**
@@ -179,13 +200,14 @@ Veteran, Former Minister of State for Security, and previous Conservative party 
 
 **Imran Hussain (Labour):**
 
-> ... The reality is that we are sending a green light to say that international rules no longer apply. Let us call this what it is. Trump’s actions are not about democracy; they are about oil and old-fashioned colonialism. ....
+> ... The reality is that we are sending a green light to say that international rules no longer apply. Let us call this what it is. Trump’s actions are not about democracy; they are about oil and old-fashioned colonialism. ...
 
 ---
 
 **Dr Andrew Murrison (Conservative):**
 
 > Will the Government use any influence that their silence on Venezuela is buying to impress on President Trump that ... hemispheric proto-colonialism that threatens UK interests or the integrity of any Commonwealth country or European neighbour would destroy the special relationship that has existed between our countries since the second world war?
+
 ---
 
 **Paula Barker (Labour):**
