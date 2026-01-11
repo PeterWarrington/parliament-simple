@@ -87,11 +87,11 @@ As is custom in debates on foreign policy, the chair of the Foreign Affairs Sele
 
 > If a large and powerful country abducts the leader of another, however abhorrent that leader is, and tries to intimidate the smaller country to, as it says itself, gain access to its resources, does the Foreign Secretary not agree that this should be called out not just by Britain, but by our western allies? We should be calling it out for what it is—a breach of international law. It is not for the country breaking the law to say whether or not it has broken the law; it is surely for the west to stand up and call it as it is. Does she not therefore share my concern that there may be a profound risk of international norms changing? If we do not call it out, this may become okay, and we risk living in a world where might is right, which is surely not in Britain’s interests.
 
----
-
 **Yvette Cooper (Labour):**
 
 > ... My right hon. Friend rightly referred to the issues of international law. I have set out our commitment to international law, and she will know that my predecessor as Foreign Secretary [David Lammy] talked about progressive realism. We have set out the progressive principles we follow—including how important international law is, because the framework it sets does not just reflect our values, but is in our interests—but also that we have to engage with the world the way it is. I can assure her that, as part of that, I have raised the issue of international law with Secretary of State Rubio and made it clear that we will continue to urge all countries to follow it.
+
+---
 
 As the 3rd largest party in the House of Commons, the **Leader of the Liberal Democrats, Ed Davey**, was next to question the Foreign Secretary:
 
@@ -276,4 +276,3 @@ Veteran, Former Minister of State for Security, and previous Conservative party 
 **Baroness Chapman (Labour):**
 
 > No, clearly not. ...
-
