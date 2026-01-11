@@ -3,6 +3,7 @@
 
 <details>
 <summary>Subscribe to the newsletter!</summary>
+<b>If the form doesn't display, go to: <a href="https://forms.gle/FnWbJuDPMew2wrvp7">https://forms.gle/FnWbJuDPMew2wrvp7</a></b>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfNDWF6iR5XKf5GvG5FnWzf_jnXktgXh8e5avhAfJox18Wwzg/viewform?embedded=true" width="640" height="354" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </details>
 
