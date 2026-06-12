@@ -5,7 +5,7 @@ description: "MPs clash over delays to the Defence Investment Plan, Treasury fun
 author: Peter Warrington
 ---
 
-> Delays to defence plan undermine UK credibility, MPs say
+> Delays in publishing a report laying out government defence spending have undermined the UK's credibility with its allies, a parliamentary committee that scrutinises public spending says.
 >
 > <https://www.bbc.co.uk/news/articles/c0ky47v6d1no> 7 June 2026
 
