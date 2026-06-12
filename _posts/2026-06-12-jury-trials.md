@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Battle Over Jury Trials"
+title:  Jury Trials
 description: "Debates in the Commons and the Lords over Government proposals to restrict the right to a jury trial in order to clear the court backlog."
 author: Peter Warrington
 ---
