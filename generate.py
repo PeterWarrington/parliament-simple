@@ -42,6 +42,8 @@ author: Peter Warrington
 
 ---
 
+## House of Commons Venezuela Debate - January 5th 2026
+
 <https://hansard.parliament.uk/commons/2026-01-05/debates/453C7107-419B-4AF7-8602-352E03B903AF/Venezuela>
 
 The House of Commons met on Monday 5th January 2026 to hear a statement from the **Foreign secretary, Yvette Cooper (Labour)**:
@@ -444,20 +446,7 @@ if __name__ == "__main__":
 
     summary = generate_summary(transcript, key_quotes, speeches)
 
-    # write json log to .logs/*.json
-    if not os.path.exists('.logs'):
-        os.makedirs('.logs')
-
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    log_file_name = f".logs/{timestamp}.json"
-    with open(log_file_name, 'w') as f:
-        f.write(json.dumps({
-            "transcript": transcript,
-            "key_quotes": key_quotes,
-            "notable_speeches": speeches,
-            "summary": summary
-        }, f, indent=4))
-
 
     # write to timestamped file in .outputs/*.md
     if not os.path.exists('.outputs'):
