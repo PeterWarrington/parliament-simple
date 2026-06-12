@@ -29,7 +29,6 @@ author: Peter Warrington
 
 ---
 
----
 **Key Quotes:**
 
 > "We should be under no illusion as to the nature of the Maduro regime. A once functioning democracy has become a hub for very dangerous organised criminal gangs—corrupt links have involved Iran, with Hezbollah increasingly present in recent years, as well as malign support from Russia—and a regime that has facilitated illicit finance, sanctions evasion and organised criminal activity, including narcotics trafficking and illegal gold trading." - **Yvette Cooper (Labour)**
