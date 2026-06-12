@@ -13,6 +13,8 @@ author: Peter Warrington
 
 The House of Commons met on Wednesday 10th June 2026 to hear an Urgent Question from **James Cartlidge (Conservative)** regarding the publication of the government's Defence Investment Plan (DIP).
 
+<https://hansard.parliament.uk/commons/2026-06-10/debates/DA392024-5FAF-486E-9EC1-508DB9AF8B57/DefenceInvestmentPlan>
+
 ---
 **Key Quotes:**
 
@@ -27,8 +29,6 @@ The House of Commons met on Wednesday 10th June 2026 to hear an Urgent Question 
 > "There is a reason the DIP [Defence Investment Plan] has been delayed so long, which is that Labour still has not worked out how to pay for it, but former Labour Defence Secretary George Robertson and former Labour Prime Minister Tony Blair both know the answer: the Government should cut welfare to fund defence." - **James Cartlidge (Conservative)**
 
 ---
-
-<https://hansard.parliament.uk/commons/2026-06-10/debates/DA392024-5FAF-486E-9EC1-508DB9AF8B57/DefenceInvestmentPlan>
 
 **James Cartlidge (Conservative)** opened the debate:
 
