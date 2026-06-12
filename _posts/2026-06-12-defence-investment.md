@@ -11,7 +11,7 @@ author: Peter Warrington
 
 ---
 
-The House of Commons met on Wednesday 24th June 2026 to hear an Urgent Question from **James Cartlidge (Conservative)** regarding the publication of the government's Defence Investment Plan (DIP).
+The House of Commons met on Wednesday 10th June 2026 to hear an Urgent Question from **James Cartlidge (Conservative)** regarding the publication of the government's Defence Investment Plan (DIP).
 
 ---
 **Key Quotes:**
