@@ -36,7 +36,7 @@ The House of Commons met on Wednesday 24th June 2026 to hear an Urgent Question 
 
 The Parliamentary Under-Secretary of State for Defence, **Luke Pollard (Labour)**, responded on behalf of the government:
 
-> The hon. Gentleman asked when the DIP will be published. As the Prime inheritance and the Defence Secretary have said, it will be published before the NATO summit in only a few weeks’ time. ... Spending decisions will be made by the Prime Minister and the Chancellor in the usual way, as applies to any Department, including the Ministry of Defence, and we will publish the defence investment plan before the NATO summit.
+> The hon. Gentleman asked when the DIP will be published. As the Prime Minister and the Defence Secretary have said, it will be published before the NATO summit in only a few weeks’ time. ... Spending decisions will be made by the Prime Minister and the Chancellor in the usual way, as applies to any Department, including the Ministry of Defence, and we will publish the defence investment plan before the NATO summit.
 
 ---
 
