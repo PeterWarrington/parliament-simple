@@ -2,3 +2,4 @@ _site/
 .outputs/
 .logs/
 .vscode/
+.post_outputs/
