@@ -30,11 +30,16 @@ author: Peter Warrington
 ---
 
 ---
-> **Key Quotes:**
-> * "We should be under no illusion as to the nature of the Maduro regime. A once functioning democracy has become a hub for very dangerous organised criminal gangs—corrupt links have involved Iran, with Hezbollah increasingly present in recent years, as well as malign support from Russia—and a regime that has facilitated illicit finance, sanctions evasion and organised criminal activity, including narcotics trafficking and illegal gold trading." - Yvette Cooper (Labour)
-> * "Oil companies are not state builders, nor are they capable of democratic capacity building or enabling political transitions." - Alicia Kearns (Conservative)
-> * "It would be hard to find an occasion on which a British Prime Minister has looked as irrelevant and spineless on an era-defining international issue as this one does on this occasion." - Pete Wishart (SNP)
-> * "The Prime Minister just looks ridiculous when he will not tell the truth: that Trump has broken international law." - Ed Davey (Liberal Democrat)
+**Key Quotes:**
+
+> "We should be under no illusion as to the nature of the Maduro regime. A once functioning democracy has become a hub for very dangerous organised criminal gangs—corrupt links have involved Iran, with Hezbollah increasingly present in recent years, as well as malign support from Russia—and a regime that has facilitated illicit finance, sanctions evasion and organised criminal activity, including narcotics trafficking and illegal gold trading." - **Yvette Cooper (Labour)**
+
+> "Oil companies are not state builders, nor are they capable of democratic capacity building or enabling political transitions." - **Alicia Kearns (Conservative)**
+
+> "It would be hard to find an occasion on which a British Prime Minister has looked as irrelevant and spineless on an era-defining international issue as this one does on this occasion." - **Pete Wishart (SNP)**
+
+> "The Prime Minister just looks ridiculous when he will not tell the truth: that Trump has broken international law." - **Ed Davey (Liberal Democrat)**
+
 ---
 
 <https://hansard.parliament.uk/commons/2026-01-05/debates/453C7107-419B-4AF7-8602-352E03B903AF/Venezuela>
