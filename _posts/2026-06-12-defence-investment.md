@@ -16,15 +16,15 @@ The House of Commons met on Wednesday 24th June 2026 to hear an Urgent Question 
 ---
 **Key Quotes:**
 
-> * "There are strong rumours that the Government are going to produce their defence investment plan on Friday. That would be an utter disgrace and an utter kick in the face to Members of this House... Once again, it seems to me that we are becoming second-class citizens under this Government." - **Mr Speaker**
+> "There are strong rumours that the Government are going to produce their defence investment plan on Friday. That would be an utter disgrace and an utter kick in the face to Members of this House... Once again, it seems to me that we are becoming second-class citizens under this Government." - **Mr Speaker**
 
-> * "This Government claim we had 14 years in which we made errors, and they may be right about many of them... but they had 14 years to plan and have now had two years in government, and we are nowhere. We are still seeing defence capability fall. In fact, NATO puts us at No. 31 out of 32 of those that have failed to meet their capability targets, and last is Iceland, which does not even have a military." - **Tom Tugendhat (Conservative)**
+> "This Government claim we had 14 years in which we made errors, and they may be right about many of them... but they had 14 years to plan and have now had two years in government, and we are nowhere. We are still seeing defence capability fall. In fact, NATO puts us at No. 31 out of 32 of those that have failed to meet their capability targets, and last is Iceland, which does not even have a military." - **Tom Tugendhat (Conservative)**
 
-> * "I really do hope that Reform can take defence more seriously and not try to dodge the important connections that we now know exist between senior Reform figures and Russia because of the bribes that the Welsh leader of Reform took from Russia. It is really important that we expose that in the public domain, because no UK party should ever be in hock to Russia." - **Luke Pollard (Labour)**
+> "I really do hope that Reform can take defence more seriously and not try to dodge the important connections that we now know exist between senior Reform figures and Russia because of the bribes that the Welsh leader of Reform took from Russia. It is really important that we expose that in the public domain, because no UK party should ever be in hock to Russia." - **Luke Pollard (Labour)**
 
-> * "May I offer some advice to Defence Ministers in their bare-knuckle fight with the Treasury for adequate defence funding? They really should move away from this glib spin doctor’s line about defence expenditure rising faster now than at any time since the end of the cold war... Please, Minister, do not parrot a line that goes way below what we need in the circumstances that we face today." - **Sir Julian Lewis (Conservative)**
+> "May I offer some advice to Defence Ministers in their bare-knuckle fight with the Treasury for adequate defence funding? They really should move away from this glib spin doctor’s line about defence expenditure rising faster now than at any time since the end of the cold war... Please, Minister, do not parrot a line that goes way below what we need in the circumstances that we face today." - **Sir Julian Lewis (Conservative)**
 
-> * "There is a reason the DIP [Defence Investment Plan] has been delayed so long, which is that Labour still has not worked out how to pay for it, but former Labour Defence Secretary George Robertson and former Labour Prime Minister Tony Blair both know the answer: the Government should cut welfare to fund defence." - **James Cartlidge (Conservative)**
+> "There is a reason the DIP [Defence Investment Plan] has been delayed so long, which is that Labour still has not worked out how to pay for it, but former Labour Defence Secretary George Robertson and former Labour Prime Minister Tony Blair both know the answer: the Government should cut welfare to fund defence." - **James Cartlidge (Conservative)**
 
 ---
 
