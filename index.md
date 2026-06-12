@@ -17,11 +17,7 @@
 
 <p style="margin-top: 9px;">
 <span style="font-weight: bold; font-style: italic; opacity: 0.7; padding-right: 4px;">
-        {% if post.author %}
-        ✏️ {{post.author}},
-        {% endif %}
-
-        {{ post.date | split: " " | first }}
+        ✏️ {{ post.date | split: " " | first }}
 </span>
 
 {{post.description}}
