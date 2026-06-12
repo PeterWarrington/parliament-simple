@@ -365,7 +365,7 @@ def generate_key_quotes(transcript):
 
     return key_quotes_response
 
-def generate_notable_speeches(transcript):
+def generate_notable_speeches(transcript, key_quotes):
     notable_speeches_prompt = f"""
     Here is the transcript of a parliamentary debate:
 
@@ -373,10 +373,16 @@ def generate_notable_speeches(transcript):
     {transcript}
     ```
 
+    Here are some selected key quotes:
+
+    {key_quotes}
+
     """ + """
     Output ONLY a JSON string array of ALL the speeches of the debate, unless they are boring and not crucial.
 
     This collection of speeches should be comprehensive and sum up the flow debate, including all key clashes.
+
+    All key quotes attached must be included within the speeches included.
 
     You may remove parts of speeches that are not notable or interesting enough by marking with ' ... '.
     ALWAYS mark where speeches are editorialised in this way.
@@ -441,7 +447,7 @@ if __name__ == "__main__":
 
     key_quotes = generate_key_quotes(transcript)
 
-    speeches = generate_notable_speeches(transcript)
+    speeches = generate_notable_speeches(transcript, json.dumps(key_quotes, indent=4))
 
     summary = generate_summary(transcript, key_quotes, speeches)
 
