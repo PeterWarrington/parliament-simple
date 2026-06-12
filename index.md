@@ -1,5 +1,4 @@
-> Presenting the most notable speeches of the House of Commons and the House of Lords every week, without spin, and without the boring bits.
-> **Know the debates of our time.**
+> Presenting the most notable debates of the House of Commons and the House of Lords, without spin. <br/> <b>Know the debates of our time.</b>
 
 <details>
 <summary>Subscribe to the newsletter!</summary>
