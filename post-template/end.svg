@@ -26,12 +26,12 @@
    inkscape:zoom="0.28028941"
    inkscape:cx="520.89018"
    inkscape:cy="374.6128"
-   inkscape:window-width="1396"
+   inkscape:window-width="1392"
    inkscape:window-height="841"
-   inkscape:window-x="44"
+   inkscape:window-x="48"
    inkscape:window-y="31"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg2" />
+   inkscape:current-layer="g10" />
   <defs
    id="defs6">
     <clipPath
@@ -173,19 +173,18 @@
       </g>
     </g>
     <g
-   id="g56">
+   id="g56"
+   transform="translate(0,-9)">
       <g
    clip-path="url(#clipPath62)"
    id="g58">
         <text
    id="text66"
    style="font-variant:normal;font-weight:normal;font-size:36px;font-family:Helvetica;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none"
-   transform="matrix(1,0,0,-1,38.664,495.05)">
-          <tspan
+   transform="matrix(1,0,0,-1,38.664,495.05)">           <tspan
    id="tspan64"
    y="0"
-   x="0">Get the debate first there. </tspan>
-        </text>
+   x="0">Get the debate first there. </tspan>        </text>
       </g>
     </g>
     <g
@@ -193,31 +192,22 @@
       <g
    clip-path="url(#clipPath74)"
    id="g70">
-        <text
-   id="text78"
-   style="font-variant:normal;font-weight:normal;font-size:36px;font-family:Helvetica;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none"
-   transform="matrix(1,0,0,-1,38.664,445.13)">
-          <tspan
-   id="tspan76"
-   y="0"
-   x="0">Find sources and selection justification.</tspan>
-        </text>
+        
       </g>
     </g>
     <g
-   id="g80">
+   id="g80"
+   transform="translate(0,47.191921)">
       <g
    clip-path="url(#clipPath86)"
    id="g82">
         <text
    id="text90"
-   style="font-variant:normal;font-weight:normal;font-size:36.02399826px;font-family:Helvetica;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none"
-   transform="matrix(1,0,0,-1,38.664,395.09)">
-          <tspan
+   style="font-variant:normal;font-weight:normal;font-size:36.024px;font-family:Helvetica;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none"
+   transform="matrix(1,0,0,-1,38.664,395.09)">           <tspan
    id="tspan88"
    y="0"
-   x="0">Link in bio. </tspan>
-        </text>
+   x="0">Link in bio. </tspan>        </text>
       </g>
     </g>
     <g

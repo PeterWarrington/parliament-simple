@@ -63,7 +63,7 @@ if __name__ == "__main__":
         ```
         middle-2.svg:
         ```
-        {open("post-template/middle.svg").read()}
+        {open("post-template/middle-2.svg").read()}
         ```
         end.svg:
         ```
