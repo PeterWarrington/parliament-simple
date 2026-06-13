@@ -4,6 +4,7 @@ import sys
 import requests
 import datetime
 from google import genai
+import time
 
 PREAMBLE = """
 You are working for a website called "Parliament Simple"
@@ -447,7 +448,15 @@ if __name__ == "__main__":
 
     key_quotes = generate_key_quotes(transcript)
 
+    if (sys.argv[2] == "--sleep"):
+        print("Sleeping 60s...")
+        time.sleep(60)
+
     speeches = generate_notable_speeches(transcript, json.dumps(key_quotes, indent=4))
+
+    if (sys.argv[2] == "--sleep"):
+        print("Sleeping 60s...")
+        time.sleep(60)
 
     summary = generate_summary(transcript, key_quotes, speeches)
 
