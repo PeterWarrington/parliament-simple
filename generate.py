@@ -356,6 +356,8 @@ def generate_key_quotes(transcript):
         ...
     ]
 
+    You should include some quotes from those leading the debate (e.g. Secretary of State).
+
     This should be the ENTIRETY of your response, and should be valid JSON. Do not include any other text or commentary. Do not enclose with ```json or any other code block markers.
     """
 
@@ -392,6 +394,8 @@ def generate_notable_speeches(transcript, key_quotes):
 
     These speeches will be presented as the main body of an article.
 
+    You should include some speeches from those leading the debate (e.g. the Secretary of State).
+
     Respond in the following format, with optional brief context for each speech (i.e. 'in response to Speaker X's claim that Y following Z, Speaker A said ...'):
 
     [
@@ -422,6 +426,10 @@ def generate_notable_speeches(transcript, key_quotes):
 def generate_summary(transcript, key_quotes=None, speeches=None):
     # get ai to generate article from key quotes and notable speeches
     article_prompt = f"""
+    Here is the original transcript of a Parliamentary debate:
+
+    {transcript}
+
     Here are the key quotes and notable speeches of a parliamentary debate:
 
     Key Quotes:
@@ -433,6 +441,7 @@ def generate_summary(transcript, key_quotes=None, speeches=None):
     {json.dumps(speeches, indent=4)}
 
     Write an article for Parliament Simple based on these key quotes and notable speeches.
+    You must include all of the above key quotes and notable speeches.
     """
 
     article_response_str = prompt_ai(article_prompt)
