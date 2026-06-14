@@ -441,6 +441,7 @@ def generate_summary(transcript, key_quotes=None, speeches=None):
     {json.dumps(speeches, indent=4)}
 
     Write an article for Parliament Simple based on these key quotes and notable speeches.
+    This article should be of similar size (quite large) of the example you have been given.
     You must include all of the above key quotes and notable speeches.
     """
 
