@@ -284,6 +284,32 @@ Veteran, Former Minister of State for Security, and previous Conservative party 
 
 > The Prime Minister just looks ridiculous when he will not tell the truth: that Trump has broken international law.  ...
 
+
+---
+
+## Venezuela, House of Lords, January 7th
+
+<https://hansard.parliament.uk/Lords/2026-01-07/debates/5DED9312-83EC-4206-9B0C-D066F95D2D27/Venezuela>
+
+**Lord Singh (Crossbench independent):**
+
+> My Lords, does the Minister agree that the American action against Venezuela is reminiscent of the school playground, where the leader of our gang, to whom we have pledged loyalty, begins to act like the school bully?
+
+**Baroness Chapman (Labour)** Minister of State in the Foreign Office:
+
+> **No.** In all of this, I think the thing that matters most and that is often lost in these exchanges is that the people of Venezuela have been badly served and abused for many years. They deserve a Government who put them first, and they have not had that. We have not had a legitimate Government in Venezuela for some time; there is the prospect of that happening. I think it is a good thing that Nicolás Maduro is no longer responsible for running Venezuela.
+
+---
+
+**Baroness Bennet (Green):**
+
+> My Lords, President Trump is displaying total disrespect for international law in his actions in Venezuela, and threatening the right of self-determination for the people of Greenland and the sovereignty of Denmark. Is the idea of the West as a geopolitical unit linking the US, Europe and other nations in a set of shared values and principles, now dead?
+
+**Baroness Chapman (Labour):**
+
+> No, clearly not. ...
+
+
 """
 
 client = genai.Client()
@@ -441,7 +467,7 @@ def generate_summary(transcript, key_quotes=None, speeches=None):
     {json.dumps(speeches, indent=4)}
 
     Write an article for Parliament Simple based on these key quotes and notable speeches.
-    This article should be of similar size (quite large) of the example you have been given.
+    This article should be of similar size (very long) of the example you have been given.
     You must include all of the above key quotes and notable speeches.
     """
 
