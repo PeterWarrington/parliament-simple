@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 1080 1200"
-   height="1200"
+   viewBox="0 0 1080 1920"
+   height="1920"
    width="1080"
    xml:space="preserve"
    id="svg2"
@@ -44,6 +44,34 @@
    style="clip-rule:evenodd"
    id="path146-5"
    d="M 1.207e-5,0 H 810.00001 V 1011.96 H 1.207e-5 Z" />
+    </clipPath><clipPath
+     id="clipPath136-3"
+     clipPathUnits="userSpaceOnUse">
+      <path
+   style="clip-rule:evenodd"
+   id="path134-1"
+   d="M 1.207e-5,0 H 810.00001 V 1011.96 H 1.207e-5 Z" />
+    </clipPath><clipPath
+     id="clipPath148-1"
+     clipPathUnits="userSpaceOnUse">
+      <path
+   style="clip-rule:evenodd"
+   id="path146-2"
+   d="M 1.207e-5,0 H 810.00001 V 1011.96 H 1.207e-5 Z" />
+    </clipPath><clipPath
+     id="clipPath160-6"
+     clipPathUnits="userSpaceOnUse">
+      <path
+   style="clip-rule:evenodd"
+   id="path158-9"
+   d="M 1.207e-5,0 H 810.00001 V 1011.96 H 1.207e-5 Z" />
+    </clipPath><clipPath
+     id="clipPath172-1"
+     clipPathUnits="userSpaceOnUse">
+      <path
+   style="clip-rule:evenodd"
+   id="path170-9"
+   d="M 0,3.0518e-4 H 810 V 1011.9603 H 0 Z" />
     </clipPath></defs>
   <g
    id="g12"
@@ -164,7 +192,55 @@
      id="tspan22">country that cannot defend itself will struggle to protect its </tspan><tspan
      x="0"
      y="178.2086"
-     id="tspan23">prosperity.&quot;</tspan></text>
+     id="tspan23">prosperity.&quot;</tspan></text><text
+   id="text188-3-9-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:820.829;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.11559"
+   transform="matrix(1.1464991,0,0,1.1464991,53.617791,1241.5676)"
+   xml:space="preserve"><tspan
+     x="0"
+     y="28.208599"
+     id="tspan24">&quot;In 2026, security means more than military strength alone. It </tspan><tspan
+     x="0"
+     y="65.708599"
+     id="tspan25">means secure borders, secure energy, secure jobs and </tspan><tspan
+     x="0"
+     y="103.2086"
+     id="tspan26">secure communities.&quot;</tspan></text><text
+   id="text188-3-9-4-0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:841.504;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.11559"
+   transform="matrix(1.1464991,0,0,1.1464991,52.845909,1390.2816)"
+   xml:space="preserve"><tspan
+     x="0"
+     y="28.208599"
+     id="tspan27">&quot;In 1945, Britain was exhausted and in debt. Our cities had </tspan><tspan
+     x="0"
+     y="65.708599"
+     id="tspan28">been bombed, and rationing went on for years. Yet Attlee’s </tspan><tspan
+     x="0"
+     y="103.2086"
+     id="tspan29">Government did not conclude that Britain could afford only one </tspan><tspan
+     x="0"
+     y="140.7086"
+     id="tspan30">priority.&quot;</tspan></text><text
+   id="text188-3-9-4-0-8"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:855.287;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.11559"
+   transform="matrix(1.1464991,0,0,1.1464991,48.161891,1580.6076)"
+   xml:space="preserve"><tspan
+     x="0"
+     y="28.208599"
+     id="tspan31">&quot;I believe that we can once again build a country that provides </tspan><tspan
+     x="0"
+     y="65.708599"
+     id="tspan32">security in the broadest sense of the word—security for our </tspan><tspan
+     x="0"
+     y="103.2086"
+     id="tspan33">nation, communities, working families and the next generation. </tspan><tspan
+     x="0"
+     y="140.7086"
+     id="tspan34">That is the debate that I am confident my resignation has </tspan><tspan
+     x="0"
+     y="178.2086"
+     id="tspan35">started.&quot;</tspan></text>
       
     
 <g
@@ -222,4 +298,68 @@
    id="text17-6"><tspan
      id="tspan20"
      x="54.992599"
-     y="746.77264">Al Carns (Formerly a Defence Minister):</tspan></text></svg>
+     y="746.77264">Al Carns (Formerly a Defence Minister):</tspan></text><g
+   id="g130"
+   transform="matrix(1.3333333,0,0,-1.3333333,9.760001,1912.24)"
+   style="fill:#f9f9f9">
+      <g
+   clip-path="url(#clipPath136-3)"
+   id="g132"
+   style="fill:#f9f9f9">
+        <text
+   id="text140"
+   style="font-variant:normal;font-weight:bold;font-size:23.04px;font-family:Arial;writing-mode:lr-tb;fill:#f9f9f9;fill-opacity:1;stroke:none"
+   transform="matrix(1,0,0,-1,16.68,24.072)">           <tspan
+   id="tspan138"
+   y="0"
+   x="0"
+   style="fill:#f9f9f9">Parliament Simple </tspan>        </text>
+      </g>
+    </g><g
+   id="g142"
+   transform="matrix(1.3333333,0,0,-1.3333333,9.760001,1912.24)"
+   style="fill:#f9f9f9">
+      <g
+   clip-path="url(#clipPath148-1)"
+   id="g144"
+   style="fill:#f9f9f9">
+        <text
+   id="text152"
+   style="font-variant:normal;font-weight:normal;font-size:23.04px;font-family:Helvetica;writing-mode:lr-tb;fill:#f9f9f9;fill-opacity:1;stroke:none"
+   transform="matrix(1,0,0,-1,222.38,24.072)">           <tspan
+   id="tspan150"
+   y="0"
+   x="0"
+   style="fill:#f9f9f9">parliament.lilpete.me</tspan>        </text>
+      </g>
+    </g><g
+   id="g154"
+   transform="matrix(1.3333333,0,0,-1.3333333,9.760001,1912.24)"
+   style="fill:#f9f9f9">
+      <g
+   clip-path="url(#clipPath160-6)"
+   id="g156"
+   style="fill:#f9f9f9">
+        <text
+   id="text164"
+   style="font-variant:normal;font-weight:bold;font-size:23.04px;font-family:Arial;writing-mode:lr-tb;fill:#f9f9f9;fill-opacity:1;stroke:none"
+   transform="matrix(1,0,0,-1,463.03,24.072)">           <tspan
+   id="tspan162"
+   y="0"
+   x="0"
+   style="fill:#f9f9f9">Know the debates of our time.</tspan>        </text>
+      </g>
+    </g><g
+   id="g166-1"
+   transform="matrix(1.3333333,0,0,-1.3333333,9.760001,1912.24)"
+   style="fill:#f9f9f9">
+      <g
+   clip-path="url(#clipPath172-1)"
+   id="g168-7"
+   style="fill:#f9f9f9">
+        <path
+   id="path174-3"
+   style="fill:#f9f9f9;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:18, 6;stroke-dashoffset:0;stroke-opacity:1"
+   d="M 867.48,58.68 H 16.68" />
+      </g>
+    </g></svg>
