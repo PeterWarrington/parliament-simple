@@ -6,3 +6,4 @@ author: Peter Warrington
 ---
 
 <embed src="/svg-post-content/healey-carns-html.svg" style="width: 100%; background: #048204;"/>
+<noembed><img src="/svg-post-content/healey-carns-html.svg" style="width: 100%; background: #048204;"/></noembed>
