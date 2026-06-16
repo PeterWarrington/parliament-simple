@@ -5,4 +5,4 @@ description: "Resignation Statements in the House of Commons following the resig
 author: Peter Warrington
 ---
 
-<embed src="/svg-post-content/healey-carns-html.svg" style="width: 100%; background: #048204;"></embed>
+<embed src="/svg-post-content/healey-carns-html.svg" style="width: 100%; background: #048204;"/>
