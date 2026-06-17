@@ -484,13 +484,13 @@ if __name__ == "__main__":
 
     key_quotes = generate_key_quotes(transcript)
 
-    if (sys.argv[2] == "--sleep"):
+    if (len(sys.argv) > 2 and sys.argv[2] == "--sleep"):
         print("Sleeping 60s...")
         time.sleep(60)
 
     speeches = generate_notable_speeches(transcript, json.dumps(key_quotes, indent=4))
 
-    if (sys.argv[2] == "--sleep"):
+    if (len(sys.argv) > 2 and sys.argv[2] == "--sleep"):
         print("Sleeping 60s...")
         time.sleep(60)
 
