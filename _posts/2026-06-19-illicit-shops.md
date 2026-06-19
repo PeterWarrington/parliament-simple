@@ -41,7 +41,7 @@ author: Peter Warrington
 
 *Image: UK Parliament / Jessica Taylor*
 
-Westminster Hall debates are held in Westminster Hall (shown above) rather than the Chamber of the House of Commons. This Westminster Hall debate was secured and opened by **Alex Ballinger (Labour)**, who highlighted the growing national blight of "phoenix" shops and illicit storefronts undermining communities:
+Westminster Hall debates are held in Westminster Hall (shown above) rather than the Chamber of the House of Commons. This Westminster Hall debate was secured and opened by **Alex Ballinger (Labour)**, who highlighted the growing national blight of "phoenix" shops and illicit store fronts undermining communities:
 
 > I beg to move, That this House has considered the matter of tackling illicit activity in high street shops. 
 >
