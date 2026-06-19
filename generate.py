@@ -25,8 +25,6 @@ author: Peter Warrington
 ---
 
 > The US has attacked Venezuela and captured its President Nicolás Maduro, with Donald Trump vowing to "run the country" until there is a "proper" transition of power.
->
-> <https://www.bbc.co.uk/news/articles/crmlz7r0zrxo> 3rd January 2026
 
 ---
 
