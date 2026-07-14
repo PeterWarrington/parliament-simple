@@ -420,6 +420,8 @@ def generate_notable_speeches(transcript, key_quotes):
 
     You should include some speeches from those leading the debate (e.g. the Secretary of State).
 
+    Thiis should be able to fill a very long article, longer than the example you have been provided with.
+
     Respond in the following format, with optional brief context for each speech (i.e. 'in response to Speaker X's claim that Y following Z, Speaker A said ...'):
 
     [
@@ -465,7 +467,7 @@ def generate_summary(transcript, key_quotes=None, speeches=None):
     {json.dumps(speeches, indent=4)}
 
     Write an article for Parliament Simple based on these key quotes and notable speeches.
-    This article should be of similar size (very long) of the example you have been given.
+    This article should be very long, longer than the example that has been provided.
     You must include all of the above key quotes and notable speeches.
     """
 
