@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Social Housing Bill"
+title:  "The Social Housing Bill 2026"
 description: "Peers debate reforms to Social Housing, including Right to Buy."
 author: Peter Warrington
 ---
